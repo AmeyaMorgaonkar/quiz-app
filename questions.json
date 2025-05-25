@@ -1,4 +1,5 @@
 [
     {"question_text": "What are Dolphins?", "alternatives": ["Mammals", "Amphibians"], "correct": 1},
-    {"question_text": "What occupies more of Earth?", "alternatives": ["Land", "Sea"], "correct": 2}
+    {"question_text": "What occupies more of Earth?", "alternatives": ["Land", "Sea"], "correct": 2},
+    {"question_text": "Question 3", "alternatives": ["alternative 1", "alternative 2"], "correct": 2}
 ]
